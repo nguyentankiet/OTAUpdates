@@ -8,6 +8,7 @@
 * Added cLock from AOKP ROMs as Stock Weather Widget is battery killer
 * Enabled NFC while screen off & locked
 * Fixed stretched wallpaper in Lockscreen after applying a custom wallpaper
+
 #####ROM Control
 * Phone and Call Settings
 * Add Call/Record Button
@@ -22,6 +23,7 @@
 * Power Button/ Double Tap: Choose from 9 Assignment, Choose Any App to open
 * Allow 360 degree Rotation
 * Lockscreen Mods
-* Enable/Disable Lockscreen Rotation.
+* Enable/Disable Lockscreen Rotation
+
 #####Aroma Setup
 * Removed HardKey Mapping (N3,N4) as all buttons can be customized through ROM Control

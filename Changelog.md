@@ -22,6 +22,6 @@
 * Power Button/ Double Tap: Choose from 9 Assignment, Choose Any App to open
 * Allow 360 degree Rotation
 * Lockscreen Mods
-* Enable/Disable Lockscreen Rotation
+* Enable/Disable Lockscreen Rotation.
 #####Aroma Setup
 * Removed HardKey Mapping (N3,N4) as all buttons can be customized through ROM Control

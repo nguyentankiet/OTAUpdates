@@ -1,6 +1,6 @@
 ####v8.1
-####03-12-2015
-####General
+###03-12-2015
+###General
 Updated Busybox
 3 dot menu is a default mod
 Added S6 My Files to fix download manager
@@ -8,7 +8,7 @@ Added Omini switch, amazing multitasking app
 Added cLock from AOKP ROMs as Stock Weather Widget is battery killer
 Enabled NFC while screen off & locked
 Fixed stretched wallpaper in Lockscreen after applying a custom wallpaper
-####ROM Control
+###ROM Control
 Phone and Call Settings
 - Add Call/Record Button
 Framework and General
@@ -23,5 +23,5 @@ Power Button/ Double Tap: Choose from 9 Assignment, Choose Any App to open
 - Allow 360 degree Rotation
 Lockscreen Mods
 - Enable/Disable Lockscreen Rotation
-####Aroma Setup
+###Aroma Setup
 Removed HardKey Mapping (N3,N4) as all buttons can be customized through ROM Control

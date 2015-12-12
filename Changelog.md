@@ -12,10 +12,10 @@ Fixed stretched wallpaper in Lockscreen after applying a custom wallpaper
 #####Phone and Call Settings
 -Add Call/Record Button
 #####Framework and General
--Customize Buttons
-Enable/Disable Extra Hapic feedback
-Home Buttons: Choose button behaviors 
-Enable/Disable Home Wake
+-Customize Buttons.
+Enable/Disable Extra Hapic feedback.
+Home Buttons: Choose button behaviors.
+Enable/Disable Home Wake.
 Home Button/ Double Tap: Choose from 9 Assignment, Choose Any App to open/ Triple Tap: Choose from 9 Assignment, Choose Any App to open/ Long Press: Choose from 9 Assignment, Choose Any App to open
 Left Capacitive Key/ Short Press: Choose from 9 Assignment, Choose Any App to open/ Long Press: Choose from 9 Assignment, Choose Any App to open (needs to disable MultiWindows)
 Right Capacitive Key/ Long Press: Choose from 9 Assignment, Choose Any App to open

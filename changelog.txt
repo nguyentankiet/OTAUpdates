@@ -4,9 +4,9 @@
 
 AryaMod V5.1 S7Edge Port
    * General Changes
-  - Video Editor fix
-  - Clock and date style in Settings>Date and time
-  - Network traffic in Settings>Display
+    Video Editor fix
+    Clock and date style in Settings>Date and time
+    Network traffic in Settings>Display
 
 # 18-06-2016
 

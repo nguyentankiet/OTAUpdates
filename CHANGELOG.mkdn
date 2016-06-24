@@ -16,7 +16,7 @@
 =======================
 
 # V5 
-  General Changes
+## General Changes
 - Added native S7edge blur effect
 - Updated framework, air command and edge panel for native blur effect, fake blur is removed
 - Increased QuickSettings Maximum number to 15 
@@ -24,7 +24,7 @@
 - Added ability to bypass initial setup while offline 
 - Added new font as called GOBOLD
 
-# ROM Control Changes
+## ROM Control Changes
 ### Notification Panel
  - Any color for Quick connect panel text color 
  - Restore Stock Colors for Notifications panel toggles, clock and date 
@@ -36,7 +36,7 @@
 ### Other Mods
  - Choose number of columns in settings (single, dual)
 
-# Aroma Changes
+## Aroma Changes
 - Added 2 camera choices S7edge and Note4
 - Added 2 launcher choices stock grid, modded grid 6 icons in dock, grid 6x6, smaller icon, both launcher has swipe rest feature  
 - Added 2 more emojis; EmojiOne and IOS 9.3 flat (6 choice totally) 

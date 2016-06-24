@@ -25,13 +25,13 @@
 - Added new font as called GOBOLD
 
 # ROM Control Changes
-- Notification Panel
+  Notification Panel
         -Any color for Quick connect panel text color 
         -Restore Stock Colors for Notifications panel toggles, clock and date 
-- Launcher Mods
+  Launcher Mods
         -Touchwiz Page Effect (7 effects)
         -Swipe rest: Select any activity for left-swipe app target 
-- Other Mods
+  Other Mods
         -Choose number of columns in settings (single, dual)
 
 # Aroma Changes

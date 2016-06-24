@@ -1,29 +1,41 @@
-###v8.1
-####03-12-2015
-#####General
-* Updated Busybox
-* 3 dot menu is a default mod
-* Added S6 My Files to fix download manager
-* Added Omini switch, amazing multitasking app
-* Added cLock from AOKP ROMs as Stock Weather Widget is battery killer
-* Enabled NFC while screen off & locked
-* Fixed stretched wallpaper in Lockscreen after applying a custom wallpaper
 
-#####ROM Control
-* Phone and Call Settings
-* Add Call/Record Button
-* Framework and General
-* Customize Buttons
-* Enable/Disable Extra Hapic feedback
-* Home Buttons: Choose button behaviors
-* Enable/Disable Home Wake
-* Home Button/ Double Tap: Choose from 9 Assignment, Choose Any App to open/ Triple Tap: Choose from 9 Assignment, Choose Any App to open/ Long Press: Choose from 9 Assignment, Choose Any App to open
-* Left Capacitive Key/ Short Press: Choose from 9 Assignment, Choose Any App to open/ Long Press: Choose from 9 Assignment, Choose Any App to open (needs to disable MultiWindows)
-* Right Capacitive Key/ Long Press: Choose from 9 Assignment, Choose Any App to open
-* Power Button/ Double Tap: Choose from 9 Assignment, Choose Any App to open
-* Allow 360 degree Rotation
-* Lockscreen Mods
-* Enable/Disable Lockscreen Rotation
+# AryaMod S7 Edge Port
 
-#####Aroma Setup
-* Removed HardKey Mapping (N3,N4) as all buttons can be customized through ROM Control
+=======================
+22-06-2016 (OTA Update) 
+=======================
+
+# V5.1
+  General Changes
+- Video Editor fix
+- Clock and date style in Settings>Date and time
+- Network traffic in Settings>Display
+
+=======================
+# 18-06-2016
+=======================
+
+# V5 
+  General Changes
+- Added native S7edge blur effect
+- Updated framework, air command and edge panel for native blur effect, fake blur is removed
+- Increased QuickSettings Maximum number to 15 
+- Updated SoundAlive to MM version for stock lovers
+- Added ability to bypass initial setup while offline 
+- Added new font as called GOBOLD
+
+# ROM Control Changes
+- Notification Panel
+        -Any color for Quick connect panel text color 
+        -Restore Stock Colors for Notifications panel toggles, clock and date 
+- Launcher Mods
+        -Touchwiz Page Effect (7 effects)
+        -Swipe rest: Select any activity for left-swipe app target 
+- Other Mods
+        -Choose number of columns in settings (single, dual)
+
+# Aroma Changes
+- Added 2 camera choices S7edge and Note4
+- Added 2 launcher choices stock grid, modded grid 6 icons in dock, grid 6x6, smaller icon, both launcher has swipe rest feature  
+- Added 2 more emojis; EmojiOne and IOS 9.3 flat (6 choice totally) 
+- Added CSC feature: Switch between LTE or 4G (tricky Samsung but finally found how to do this)

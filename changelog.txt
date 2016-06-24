@@ -2,11 +2,11 @@
 22-06-2016 (OTA Update) 
 =======================
 
-AryaMod V5.1 S7Edge Port
-General Changes
-   * Video Editor fix
-   * Clock and date style in Settings>Date and time
-   * Network traffic in Settings>Display
+# AryaMod V5.1 S7Edge Port
+  General Changes
+- Video Editor fix
+- Clock and date style in Settings>Date and time
+- Network traffic in Settings>Display
 
 # 18-06-2016
 

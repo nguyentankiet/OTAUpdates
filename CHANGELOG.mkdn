@@ -10,9 +10,9 @@
   - Init.d Support
   - Debloated
   - **Aroma Installer**
-  - ROM Control
-  - Sound Control
-  - OTA Update
+  - **ROM Control**
+  - **Sound Control**
+  - **OTA Update**
   - Supporting all snapdragon variants 
   - Extended Power Menu
   - Disabled Signature checks

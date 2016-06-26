@@ -2,7 +2,7 @@
 # [AryaMod S7 Edge Port](http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976)
 
   - Android M 6.0.1
-  - Based on G935FXXU1APD3 Official Firmware for GALAXY S7 EDGE (SM-G935F)
+  - Based on **G935FXXU1APD3** Official Firmware for GALAXY S7 EDGE (SM-G935F)
   - Added Note 5 features 
   - Rooted with Superuser 2.74 (System Mode)
   - Optimized, Deodexed, De-Knoxed

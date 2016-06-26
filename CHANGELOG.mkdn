@@ -9,7 +9,7 @@
   - Installed Busybox 1.24.2
   - Init.d Support
   - Debloated
-  - *Aroma Installer*
+  - **Aroma Installer**
   - ROM Control
   - Sound Control
   - OTA Update

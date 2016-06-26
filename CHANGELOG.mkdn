@@ -19,8 +19,8 @@
   - Enabled "Choose app to complete action"
   - Enabled all apps in Multiwindows 
   - Private mode
-  - Clock and date style in Settings>Date and time
-  - Network traffic in Settings>Display
+  - Statusbar clock and date style in Settings>Date and time
+  - Statusbar network traffic in Settings>Display
   - Increased QuickSettings Maximum number to 15 
   - Enabled outdoor mode toggle in Settings>Display
   - Enabled Touch key light duration option in Settings>Display

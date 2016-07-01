@@ -2,7 +2,7 @@
 # [AryaMod S7 Edge Port](http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976)
 
   - Android M 6.0.1
-  - Based on **G935FXXU1APEK** Official Firmware for GALAXY S7 EDGE (SM-G935F)
+  - Based on **G935FXXU1APD3** Official Firmware for GALAXY S7 EDGE (SM-G935F)
   - Added Note 5 features 
   - Rooted with Superuser 2.74 (System Mode)
   - Optimized, Deodexed, De-Knoxed
@@ -22,30 +22,27 @@
   - Statusbar clock and date style in Settings>Date and time
   - Statusbar network traffic in Settings>Display
   - Increased QuickSettings Maximum number to 15 
-  - Favorite columns number in settings`s dashboard increaded to 4
-  - Added Autostart management in settings
   - Enabled outdoor mode toggle in Settings>Display
-  - Enabled Display scaling in Settings>Display
-  - Added ListView animation in Settings>Display
   - Enabled Touch key light duration option in Settings>Display
+  - Enabled "Device Status Official" - Removed SysScope
+  - Added ListView animation in Settings>Display
+  - Added Changelog in Settings>About Device>Software info 
+  - Enabled Smart Manager icon in app drawer 
+  - Added Torchlight
+  - Modded Messaging App
+  - Disabled Volume Warning on Headphone
+  - Fixed scroll capture black screen
+  - Added Autostart management in settings
   - Added LED indicator settings in settings>display
   - Increased animation scales array in settings>development option>animation scales or from ROM Control>phone mods>advanced function menu
-  - Enabled "Device Status Official" - Removed SysScope dependency 
-  - Enabled Smart Manager icon in app drawer 
-  - Added Torchlight Settings 
-  - Modded Messaging App
-  - Enabled Identify unsaved umbers: show info about unsaved phone numbers on the call screen and in the phone log
-  - Disabled Volume Warning on Headphone
   - Removed gray statusbar while power saving mode is activated
   - Added ROM info in settings>About device>Software info
   - Added ability to bypass initial setup while offline 
-  - Added Multiwindows 
+  - Added Multiwindows togglefl
   - Added Toolbox supporting up to 12 apps
-  - Added Floating message (toggle and settings)
-  - Added Omini switch, powerful multitasking app
+  - Added Floating message (settings and toggle)
+  - Added Omini switch, amazing multitasking app
   - Added UPSM Manager 
   - Added GalaxyIconThemer
   - 1000 custom fonts
   - Added FasterGPS for better GPS lock based on region 
-  - Added Adaway
-  - Added Popup browser

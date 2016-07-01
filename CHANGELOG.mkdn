@@ -9,6 +9,7 @@
   - Installed Busybox 1.24.2
   - Init.d Support
   - Debloated
+  - Multi CSC, 173 sale codes 
   - **Aroma Installer**
   - **ROM Control**
   - **Sound Control**

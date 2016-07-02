@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AryaMod</RomName>
-  <VersionName>AryaModV5.2_S7Edge</VersionName>
-  <VersionNumber type="integer">20160623</VersionNumber>
+  <VersionName>AryaModV6.0_S7Edge</VersionName>
+  <VersionNumber type="integer">20160730</VersionNumber>
     <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->

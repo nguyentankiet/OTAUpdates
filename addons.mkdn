@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <hash>
+<addons>
+ <addon>
+ <id>1</id> 
+<!-- Use integers only, make them unique --> <name>xposed-v84.0-sdk23-arm-custom-build-by-wanam-20160504</name> 
+<!-- The name, simples --> 
+<description>Compatible Xposed Framework</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-05-04</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>4874240</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2116 </download-link> 
+</addon> 
+</addons> 
+</hash>

@@ -10,8 +10,8 @@
   <DirectUrl nil="true" />
   <DirectUrl><![CDATA[https://romhut.com/files/2163?region=usa]]></DirectUrl>
   <Android>6.0.1</Android>
-  <CheckMD5>d8b0c1c804e5ef1166085a37847b99c5</CheckMD5>
-  <FileSize type="integer">48050591</FileSize>
+  <CheckMD5>9c10ed4d2c2815af318ff0961b6c93e3</CheckMD5>
+  <FileSize type="integer">1861510</FileSize>
   <Developer>Kamy</Developer>
   <WebsiteURL>http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976</WebsiteURL>
   <DonateURL nil="true" />

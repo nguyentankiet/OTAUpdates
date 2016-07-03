@@ -8,7 +8,7 @@
     <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://sourceforge.net/projects/aryamod/files/Note%203/S7Edge%20Port/AryaModV5.2_S7Edge.zip/download]]></DirectUrl>
+  <DirectUrl><![CDATA[https://romhut.com/files/2163?region=usa]]></DirectUrl>
   <Android>6.0.1</Android>
   <CheckMD5>d8b0c1c804e5ef1166085a37847b99c5</CheckMD5>
   <FileSize type="integer">48050591</FileSize>

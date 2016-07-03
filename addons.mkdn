@@ -17,9 +17,9 @@
 <!-- The name, simples --> 
 <description>Round corner for recent apps and notification</description> 
 <!-- You can use markdown here if you want --> <updated-at>2016-05-04</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>(43832573</size> 
+<!-- Must be in yyyy-mm-dd format --> <size>43832684</size> 
 <!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2164 </download-link> 
+<download-link> https://romhut.com/files/2165 </download-link> 
 </addon>
 </addons> 
 </hash>

@@ -75,5 +75,5 @@
 
   </Changelog>
   <AddonCount>1</AddonCount> 
-  <AddonsURL>http://pastebin.com/raw/0fwJuZXL</AddonsURL>
+  <AddonsURL>https://raw.githubusercontent.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>
 </ROM>

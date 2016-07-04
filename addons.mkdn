@@ -3,6 +3,25 @@
 <addons>
  <addon>
  <id>1</id> 
+<!-- Use integers only, make them unique --> <name>AryaModV_V6_S7Edge_DirectSpen_Fix</name> 
+<!-- The name, simples --> 
+<description>Direct Spen Fix</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-07-04</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>15553797</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2167 </download-link> 
+</addon> 
+ <addon>
+ <id>2</id> 
+<!-- Use integers only, make them unique --> <name>AryaModV_V6_S7Edge_Notification_Round_Cornered_rev2</name> 
+<!-- The name, simples --> 
+<description>Round corner for recent apps and notification</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-07-04</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>24261765</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2165 </download-link> 
+</addon>
+<id>3</id> 
 <!-- Use integers only, make them unique --> <name>xposed-v84.0-sdk23-arm-custom-build-by-wanam-20160504</name> 
 <!-- The name, simples --> 
 <description>Compatible Xposed Framework</description> 
@@ -11,15 +30,5 @@
 <!-- filesize in bytes --> 
 <download-link> https://romhut.com/files/2116 </download-link> 
 </addon> 
- <addon>
- <id>2</id> 
-<!-- Use integers only, make them unique --> <name>AryaModV_V6_S7Edge_Notification_Round_Cornered_rev2</name> 
-<!-- The name, simples --> 
-<description>Round corner for recent apps and notification</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-05-04</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>24261765</size> 
-<!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2165 </download-link> 
-</addon>
 </addons> 
 </hash>

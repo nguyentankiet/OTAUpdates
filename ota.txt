@@ -11,13 +11,13 @@
   <DirectUrl><![CDATA[https://romhut.com/files/2163?region=usa]]></DirectUrl>
   <Android>6.0.1</Android>
   <CheckMD5>9c10ed4d2c2815af318ff0961b6c93e3</CheckMD5>
-  <FileSize type="integer">1861510</FileSize>
+  <FileSize type="integer">1861510655</FileSize>
   <Developer>Kamy</Developer>
   <WebsiteURL>http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976</WebsiteURL>
   <DonateURL nil="true" />
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>
-###v6.0 Changes (OTA Update):
+###v6.0 Changes:
   - Android M 6.0.1
   - Based on **G935FXXU1APEK** Official Firmware for GALAXY S7 EDGE (SM-G935F)
   - Added Note 5 features 

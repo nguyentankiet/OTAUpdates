@@ -3,7 +3,7 @@
 <addons>
  <addon>
  <id>1</id> 
-<!-- Use integers only, make them unique --> <name>AryaModV_V6_S7Edge_DirectSpen_Fix</name> 
+<!-- Use integers only, make them unique --> <name>AryaMod_V6_S7Edge_DirectSpen_Fix</name> 
 <!-- The name, simples --> 
 <description>Direct Spen Fix</description> 
 <!-- You can use markdown here if you want --> <updated-at>2016-07-04</updated-at> 
@@ -13,7 +13,7 @@
 </addon> 
  <addon>
  <id>2</id> 
-<!-- Use integers only, make them unique --> <name>AryaModV_V6_S7Edge_Notification_Round_Cornered_rev2</name> 
+<!-- Use integers only, make them unique --> <name>AryaMod_V6_S7Edge_Notification_Round_Cornered_rev2</name> 
 <!-- The name, simples --> 
 <description>Round corner for recent apps and notification</description> 
 <!-- You can use markdown here if you want --> <updated-at>2016-07-04</updated-at> 

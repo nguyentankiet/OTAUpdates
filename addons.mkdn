@@ -21,6 +21,7 @@
 <!-- filesize in bytes --> 
 <download-link> https://romhut.com/files/2165 </download-link> 
 </addon>
+<addon>
 <id>3</id> 
 <!-- Use integers only, make them unique --> <name>xposed-v84.0-sdk23-arm-custom-build-by-wanam-20160504</name> 
 <!-- The name, simples --> 

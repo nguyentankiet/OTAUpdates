@@ -3,13 +3,13 @@
 <addons>
  <addon>
  <id>1</id> 
-<!-- Use integers only, make them unique --> <name>AryaMod_V6_S7Edge_DirectSpen_Fix</name> 
+<!-- Use integers only, make them unique --> <name>AryaModV_V6_S7Edge_Update1_Square_NP</name> 
 <!-- The name, simples --> 
-<description>Direct Spen Fix</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-07-04</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>15553797</size> 
+<description>This zip would update Audio Path colorizing in Notification panel, it's for SQUARE notifications UI</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-07-07</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>24260618</size> 
 <!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2167 </download-link> 
+<download-link> https://romhut.com/files/2169 </download-link> 
 </addon> 
  <addon>
  <id>2</id> 

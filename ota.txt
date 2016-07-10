@@ -74,6 +74,6 @@
   - Added Adaway 
 
   </Changelog>
-  <AddonCount>4</AddonCount> 
+  <AddonCount>5</AddonCount> 
   <AddonsURL>https://raw.githubusercontent.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>
 </ROM>

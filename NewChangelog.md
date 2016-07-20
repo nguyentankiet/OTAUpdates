@@ -4,7 +4,7 @@
 # 20-07-2016 
 # V6.1
 ## General Changes
-- Included LssKernel for all Supporting Variants
+  - Included LssKernel for all Supporting Variants
   - Updated Superuser to latest stable version 2.76, System Mods
   - Updated busybox to latest stable version 1.24.2-Stericson
   - ROM Control V2, totally new mechanism

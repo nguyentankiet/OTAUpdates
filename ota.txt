@@ -8,9 +8,9 @@
     <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://romhut.com/files/2190?region=usa]]></DirectUrl>
+  <DirectUrl><![CDATA[https://romhut.com/files/2191?region=europe]]></DirectUrl>
   <Android>6.0.1</Android>
-  <CheckMD5>8987d96c0111d237afe57bcbbedd2050</CheckMD5>
+  <CheckMD5>b08a13671b8f24471d954c04994606f8</CheckMD5>
   <FileSize type="integer">151654400</FileSize>
   <Developer>Kamy</Developer>
   <WebsiteURL>http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976</WebsiteURL>

@@ -17,7 +17,7 @@
   <DonateURL nil="true" />
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>
-###v6.1 Changes:
+###v6.2 Changes:
   - Fixed assigning buttons to custom apps that used to cause phone reboot</item>
   - Set any Color, Gradient for Power Menu Background</item>
   - Signal Style, immigrate between stock or IOS dot style signal</item>

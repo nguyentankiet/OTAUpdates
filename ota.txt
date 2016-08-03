@@ -29,5 +29,5 @@
  
   </Changelog>
   <AddonCount>1</AddonCount>
-  <AddonsURL>https://raw.githubusercontent.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>
+  <AddonsURL>https://raw.github.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>
 </ROM>

@@ -1,58 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AryaMod</RomName>
-  <VersionName>AryaModV6.1_S7Edge</VersionName>
-  <VersionNumber type="integer">20160720</VersionNumber>
+  <VersionName>AryaModV_V6.2_S7Edge_OTAUpdate</VersionName>
+  <VersionNumber type="integer">20160803</VersionNumber>
     <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://romhut.com/files/2182?region=usa]]></DirectUrl>
+  <DirectUrl><![CDATA[https://romhut.com/files/2190?region=usa]]></DirectUrl>
   <Android>6.0.1</Android>
-  <CheckMD5>66f54205940ac61b528afb7cb57d93cf</CheckMD5>
-  <FileSize type="integer">1816029869</FileSize>
+  <CheckMD5>8987d96c0111d237afe57bcbbedd2050</CheckMD5>
+  <FileSize type="integer">151654400</FileSize>
   <Developer>Kamy</Developer>
   <WebsiteURL>http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976</WebsiteURL>
   <DonateURL nil="true" />
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>
 ###v6.1 Changes:
-  - Included LssKernel for all Supporting Variants
-  - Updated Superuser to latest stable version 2.76, System Mods
-  - Updated busybox to latest stable version 1.24.2-Stericson
-  - ROM Control V2, totally new mechanism
-  - Applied July security patch fix
-  - Fixed T9 Dialer
-  - Fixed Spen Direct and Handwriting
-  - Fixed S Planner edit crash
-  - Fixed Movie Editor
-  - Fixed Auto Call Record sometimes not recording
-  - Toggle custom/stock color for Statusbar Icon/Text
-  - Toggle a global color for all statusbar Icons
-  - Set any color for Signal Icon
-  - Set any color for Data Icon
-  - Set any color for WiFi Icon
-  - Set any color for Notifications Icon
-  - Set any color for Stock Battery Icon
-  - Set any color for Stock Battery Icon Charging
-  - Set any color for Stock Battery Percentage Color
-  - Show/Hide WiFi in/out arrows
-  - Statusbar Double Tap, 20+ Assignments
-  - Set any Color, Gradiant for Statusbar Background
-  - UI Style, immigrate between stock or IOS style statusbar with round notifications
-  - Show/Hide Brightness Slider in Notification Panel
-  - Add Call/Record Button in InCallUI
-  - Set any Image, Color, Gradiant for InCallUI Background
-  - Combine And Forward Message, CallBack Number, MMS Mobile Data Off, Sender Information When Forwarding Message, Message Priority/Validity, MMS Send Delivery Reports, MMS Delivery Time, Add Subject Field, And Copy To SIM/Save To Draft/Reply All/Priority Level In Composing List Mods In Stock Messaging App
-  - Added TMB and XSI CSC to Aroma
-  - Added Viper Only in Aroma/Sound Mods, now choose between Stock/Viper/All in One
-  - Fixed all CSC User Mods
-  - Added Enale/Disable Swipe to Block Notification in Aroma
-  - Defualt CSC is set to BTU, United Kingdom in Aroma
-  - Removed all CSC related bloats
-  - Updated Toolbox
-  - Updated OTA Updates
+  - Fixed assigning buttons to custom apps that used to cause phone reboot</item>
+  - Set any Color, Gradient for Power Menu Background</item>
+  - Signal Style, immigrate between stock or IOS dot style signal</item>
+  - Notification bg shape; stock/Rounded</item>
+  - Notification bg color set on fly</item>
+  - Notification panel Carrier label</item>
+  - Device info customization on Notification panel</item>
+  - Multi-Lingual Calculator, Message, Svoice and Voice recorded
 
   </Changelog>
   <AddonCount>5</AddonCount> 

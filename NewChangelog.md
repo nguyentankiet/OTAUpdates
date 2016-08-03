@@ -1,41 +1,14 @@
 
 # [AryaMod S7 Edge Port](http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976)
 
-# 20-07-2016 
-# V6.1
+# 03-08-2016 
+# V6.2
 ## General Changes
-  - Included LssKernel for all Supporting Variants
-  - Updated Superuser to latest stable version 2.76, System Mods
-  - Updated busybox to latest stable version 1.24.2-Stericson
-  - ROM Control V2, totally new mechanism
-  - Applied July security patch fix
-  - Fixed T9 Dialer
-  - Fixed Spen Direct and Handwriting
-  - Fixed S Planner edit crash
-  - Fixed Movie Editor
-  - Fixed Auto Call Record sometimes not recording
-  - Toggle custom/stock color for Statusbar Icon/Text
-  - Toggle a global color for all statusbar Icons
-  - Set any color for Signal Icon
-  - Set any color for Data Icon
-  - Set any color for WiFi Icon
-  - Set any color for Notifications Icon
-  - Set any color for Stock Battery Icon
-  - Set any color for Stock Battery Icon Charging
-  - Set any color for Stock Battery Percentage Color
-  - Show/Hide WiFi in/out arrows
-  - Statusbar Double Tap, 20+ Assignments
-  - Set any Color, Gradiant for Statusbar Background
-  - UI Style, immigrate between stock or IOS style statusbar with round notifications
-  - Show/Hide Brightness Slider in Notification Panel
-  - Add Call/Record Button in InCallUI
-  - Set any Image, Color, Gradiant for InCallUI Background
-  - Combine And Forward Message, CallBack Number, MMS Mobile Data Off, Sender Information When Forwarding Message, Message Priority/Validity, MMS Send Delivery Reports, MMS Delivery Time, Add Subject Field, And Copy To SIM/Save To Draft/Reply All/Priority Level In Composing List Mods In Stock Messaging App
-  - Added TMB and XSI CSC to Aroma
-  - Added Viper Only in Aroma/Sound Mods, now choose between Stock/Viper/All in One
-  - Fixed all CSC User Mods
-  - Added Enale/Disable Swipe to Block Notification in Aroma
-  - Defualt CSC is set to BTU, United Kingdom in Aroma
-  - Removed all CSC related bloats
-  - Updated Toolbox
-  - Updated OTA Updates
+  - Fixed assigning buttons to custom apps that used to cause phone reboot</item>
+  - Set any Color, Gradient for Power Menu Background</item>
+  - Signal Style, immigrate between stock or IOS dot style signal</item>
+  - Notification bg shape; stock/Rounded</item>
+  - Notification bg color set on fly</item>
+  - Notification panel Carrier label</item>
+  - Device info customization on Notification panel</item>
+  - Calculator, Message, Svoice and Voice recorded are now Multi-Lingual

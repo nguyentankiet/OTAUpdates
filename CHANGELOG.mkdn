@@ -2,7 +2,7 @@
 # [AryaMod S7 Edge Port](http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976)
 
 # 20-07-2016 
-# V6.1
+# V6.2
 ## General Changes
   - Included LssKernel for all Supporting Variants
   - Updated Superuser to latest stable version 2.76, System Mods
@@ -39,4 +39,5 @@
   - Removed all CSC related bloats
   - Updated Toolbox
   - Updated OTA Updates
+  - Calculator, Message, Svoice and Voice recorded are now Multi-Lingual
 

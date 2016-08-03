@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AryaMod</RomName>
-  <VersionName>AryaModV_V6.2_S7Edge_OTAUpdate</VersionName>
+  <VersionName>AryaModV_V6.1_S7Edge.zip</VersionName>
   <VersionNumber type="integer">20160803</VersionNumber>
     <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->

@@ -26,7 +26,8 @@
   - Notification panel Carrier label</item>
   - Device info customization on Notification panel</item>
   - Multi-Lingual Calculator, Message, Svoice and Voice recorded
+ 
   </Changelog>
-  <AddonCount>1</AddonCount> 
+  <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>
 </ROM>

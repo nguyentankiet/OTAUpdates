@@ -28,6 +28,6 @@
   - Multi-Lingual Calculator, Message, Svoice and Voice recorded
 
   </Changelog>
-  <AddonCount>5</AddonCount> 
+  <AddonCount>1</AddonCount> 
   <AddonsURL>https://raw.githubusercontent.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>
 </ROM>

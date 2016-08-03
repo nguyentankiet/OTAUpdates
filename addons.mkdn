@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
  <hash>
 <addons>
- <addon>
- <id>1</id> 
-<!-- Use integers only, make them unique --> <name>AryaModV6_S7Edge_Signal_Cluster_IOS_Style</name> 
-<!-- The name, simples --> 
-<description>This zip would change the statusbar signal and wifi to IOS style</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-07-10</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>24268318</size> 
-<!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2171 </download-link> 
-</addon>
- <addon>
- <id>2</id> 
-<!-- Use integers only, make them unique --> <name>AryaModV_V6_S7Edge_Update1_Square_NP</name> 
-<!-- The name, simples --> 
-<description>This zip would update Audio Path colorizing in Notification panel, it's for SQUARE notifications UI</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-07-07</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>24260618</size> 
-<!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2169 </download-link> 
-</addon> 
- <addon>
- <id>3</id> 
-<!-- Use integers only, make them unique --> <name>AryaMod_V6_S7Edge_Notification_Round_Cornered_rev2</name> 
-<!-- The name, simples --> 
-<description>Round corner for recent apps and notification</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-07-04</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>24261765</size> 
-<!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2165 </download-link> 
-</addon>
 <addon>
-<id>4</id> 
+<id>1</id> 
 <!-- Use integers only, make them unique --> <name>xposed-v86.0-sdk23-arm-custom-build-by-wanam-20160709</name> 
 <!-- The name, simples --> 
 <description>Compatible Xposed Framework</description> 

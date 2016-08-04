@@ -18,13 +18,16 @@
    <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
    <Changelog>
 ###v6.2 Changes (OTA Update):
-  - Fixed assigning buttons to custom apps that used to cause phone reboot</item>
-  - Set any Color, Gradient for Power Menu Background</item>
-  - Signal Style, immigrate between stock or IOS dot style signal</item>
-  - Notification bg shape; stock/Rounded</item>
-  - Notification bg color set on fly</item>
-  - Notification panel Carrier label</item>
-  - Device info customization on Notification panel</item>
+  - Schedule Message fixed 
+  - Updated Sound effect for stock mod
+  - Updated GPS gonfiguration 
+  - Fixed assigning buttons to custom apps that used to cause phone reboot
+  - Set any Color, Gradient for Power Menu Background
+  - Signal Style, immigrate between stock or IOS dot style signal
+  - Notification bg shape; stock/Rounded
+  - Notification bg color set on fly
+  - Notification panel Carrier label
+  - Device info customization on Notification panel
   - Multilingual Calculator, Message, Svoice and Voice record
  
    </Changelog>

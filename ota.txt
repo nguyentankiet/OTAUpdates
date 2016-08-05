@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <ROM>
-   <RomName>AryaMod</RomName>
-  <VersionName>AryaModV_V6.2_S7Edge_Final</VersionName>
-  <VersionNumber type="integer">20160804</VersionNumber>
+   <RomName>DarkLord</RomName>
+  <VersionName>DarkLord_Note7_V1.1</VersionName>
+  <VersionNumber type="integer">20160806</VersionNumber>
      <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
      <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->
      <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
      <!-- Direct Link overrides HTTP link -->
    <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://romhut.com/files/2195?region=usa]]></DirectUrl>
+  <DirectUrl><![CDATA[https://romhut.com/files/2194?region=usa]]></DirectUrl>
    <Android>6.0.1</Android>
-  <CheckMD5>dada7d9881a7c1b4e9cf35a1a3d05d25</CheckMD5>
-  <FileSize type="integer">1816236565</FileSize>
-   <Developer>Kamy</Developer>
-   <WebsiteURL>http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976</WebsiteURL>
+  <CheckMD5>53a289aa5a6a5d1bfdfc56447dc6b231</CheckMD5>
+  <FileSize type="integer">23038672</FileSize>
+   <Developer>darker13 - nguyentankiet</Developer>
+   <WebsiteURL>https://samsungvn.com/threads/6-0-1-n900x-snapdragon-darklord-note7-full-port.20311</WebsiteURL>
    <DonateURL nil="true" />
    <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
    <Changelog>
-###v6.2 Changes (OTA Update):
-  - Schedule Message fixed 
-  - Updated Sound effect for stock mod
-  - Updated GPS configuration 
-  - Fixed assigning buttons to custom apps that used to cause phone reboot
-  - Set any Color, Gradient for Power Menu Background
-  - Signal Style, immigrate between stock or IOS dot style signal
-  - Notification bg shape; stock/Rounded
-  - Notification bg color set on fly
-  - Notification panel Carrier label
-  - Device info customization on Notification panel
-  - Multilingual Calculator, Message, Svoice and Voice record
+###v1.1 Changes (OTA Update):
+  - Tets OTA
  
    </Changelog>
    <AddonCount>5</AddonCount> 

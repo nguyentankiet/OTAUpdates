@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <ROM>
    <RomName>DarkLord</RomName>
-  <VersionName>DarkLord_Note7_V1.1</VersionName>
+  <VersionName>SystemUI moded & reboot options</VersionName>
   <VersionNumber type="integer">20160806</VersionNumber>
      <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
      <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->
@@ -17,9 +17,8 @@
    <DonateURL nil="true" />
    <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
    <Changelog>
-###v1.1 Changes (OTA Update):
+###Mod Changes (OTA Update):
   - Tets OTA
- 
    </Changelog>
    <AddonCount>5</AddonCount> 
   <AddonsURL>https://raw.githubusercontent.com/kmokhtar79/OTAUpdates/stable/addons.mkdn</AddonsURL>

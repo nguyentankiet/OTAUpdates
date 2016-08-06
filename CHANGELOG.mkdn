@@ -1,7 +1,35 @@
 
 # [DarkLord Note7 Full Port](https://samsungvn.com/threads/6-0-1-n900x-snapdragon-darklord-note7-full-port.20311)
-
 # 03-08-2016 
 # V1.0
 ## General Changes
-  - Test for OTA, old changelog
+- Base N930FXXU1APG7
+- First release
+-	Fix boot
+-	Fix Wifi: Failed to connect network
+-	SecSetupWizard: Disable dignostic report
+-	SecSetupWizard: Fix display scaling for FullHD
+-	Fix Signal: Replace with N3 stock RIL
+-	Fix Phone FC and lost signal after end call
+-	Fix brightness too dim
+-	Rollback to S5 power profile
+-	Disable signature verification
+-	Fix Setup wizard FC
+-	SMS: Unlimited characters
+-	Display Setting: Enable touch light keys, outdoor setting
+-	SystemUI: Enable hidden toggle
+-	TouchWizLauncher: Enable folder lock
+-	SmartManager: Fix UDS FC, enable Edge panel
+-	SmartManager: Fix timepicker FC
+-	SmartManager: Fix display scaling for FullHD sceen
+-	SysScope: Bypass kernel check, return Official status
+-	TeleService: Enable mute first ring
+-	Settings: Enable simple status bar
+-	SecSetupWizard: Add select home and select theme
+-	Settings: Fix sreen scaling for FullHD Screen
+-	Framework: Multiwindow all apps
+-	Camera6: Fix auto mode: Picture and Video recording for Note 3
+-	Camera6: Fix 4k video recording FC
+-	Camera6: Fix back camera 640x480 video recording FC
+-	Camera6: Disable front camera video recording resolution: 1920x1080, 640x480. Set 1280x720 as default
+-	Camera6: Food mode fix picture

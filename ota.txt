@@ -8,10 +8,10 @@
      <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
      <!-- Direct Link overrides HTTP link -->
    <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://romhut.com/files/2194?region=usa]]></DirectUrl>
+  <DirectUrl><![CDATA[https://romhut.com/files/2197?region=usa]]></DirectUrl>
    <Android>6.0.1</Android>
-  <CheckMD5>53a289aa5a6a5d1bfdfc56447dc6b231</CheckMD5>
-  <FileSize type="integer">23038672</FileSize>
+  <CheckMD5>79e66331a38eb71597fc4888cf1f3854</CheckMD5>
+  <FileSize type="integer">23042249</FileSize>
    <Developer>darker13 - nguyentankiet</Developer>
    <WebsiteURL>https://samsungvn.com/threads/6-0-1-n900x-snapdragon-darklord-note7-full-port.20311</WebsiteURL>
    <DonateURL nil="true" />

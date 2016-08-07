@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <ROM>
    <RomName>DarkLord</RomName>
-  <VersionName>SystemUI_moded_&_reboot_options</VersionName>
+  <VersionName>SystemUI_moded_and_reboot_options</VersionName>
   <VersionNumber type="integer">20160807</VersionNumber>
      <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
      <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->

@@ -2,7 +2,7 @@
  <ROM>
    <RomName>DarkLord</RomName>
   <VersionName>SystemUI moded & reboot options</VersionName>
-  <VersionNumber type="integer">20160806</VersionNumber>
+  <VersionNumber type="integer">20160807</VersionNumber>
      <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
      <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->
      <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
